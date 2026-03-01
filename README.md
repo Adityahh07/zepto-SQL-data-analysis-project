@@ -1,5 +1,6 @@
- Zepto Product Data Analysis (SQL Project)
- Project Overview
+--Zepto Product Data Analysis (SQL Project)
+ 
+ -Project Overview
 
 This project focuses on analyzing a Zepto product dataset using MySQL. 
 The dataset contains product-level information such as category, 
@@ -11,92 +12,70 @@ data handling — starting from database setup and data import,
 followed by data exploration, cleaning, and business-focused analysis to 
 extract meaningful insights.
 
+
  What I Did in This Project
+ 
 1️ Database Setup & Data Import
 
 Created a dedicated database for the project.
-
 Designed a structured table with appropriate columns and primary key.
-
 Imported CSV data into MySQL.
-
 Verified successful data loading.
+
 
 2️ Data Exploration
 
 Checked total number of records.
-
 Explored distinct product categories.
-
 Analyzed stock availability status.
-
 Identified duplicate product names.
-
 Checked for missing or inconsistent values.
+
 
 3️ Data Cleaning
 
 Removed invalid records (e.g., products with zero MRP).
-
 Converted price values into proper format where necessary.
-
 Ensured the dataset was consistent for further analysis.
-
 Used transaction control for safe updates and deletions.
+
 
 4️ Business Analysis Performed
 
 The following business insights were generated:
-
 Identified top products with the highest discounts.
-
 Found high-MRP products that are currently out of stock.
-
 Estimated total revenue potential per category.
-
 Detected premium products with very low discounts.
-
 Calculated average discount percentage by category.
-
 Evaluated price-per-gram to determine best value products.
-
 Categorized products based on weight (Low, Medium, Bulk).
-
 Calculated total inventory weight available per category.
+
 
  SQL Concepts Used
 
 Database and table creation
-
 Data import from CSV
-
 Data validation and cleaning
-
 Aggregate functions (SUM, AVG, COUNT)
-
 GROUP BY clauses
-
 Filtering using WHERE conditions
-
 Sorting and limiting results
-
 CASE statements for categorization
-
 Transactions for safe data operations
 
- Key Skills Demonstrated
+
+  Key Skills Demonstrated
 
 Practical MySQL usage
-
 Real-world data cleaning techniques
-
 Business-oriented analytical thinking
-
 Writing structured and efficient queries
+Converting raw data into actionable insights 
 
-Converting raw data into actionable insights
 
- Conclusion
+  Conclusion
 
 This project demonstrates the ability to handle structured datasets from raw import 
 to business-level insights using SQL. It reflects strong fundamentals in data analysis, 
