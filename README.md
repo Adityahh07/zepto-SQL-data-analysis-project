@@ -53,7 +53,7 @@ The following business insights were generated:
 * Data import from CSV
 * Data validation and cleaning
 * Aggregate functions (SUM, AVG, COUNT)
-* GROUP BY and HAVING clauses
+* GROUP BY clauses
 * Filtering using WHERE conditions
 * Sorting and limiting results
 * CASE statements for categorization
